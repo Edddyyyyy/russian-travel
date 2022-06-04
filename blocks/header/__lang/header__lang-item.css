@@ -1,0 +1,30 @@
+.header__lang-item {
+    width: 30px;
+    height: 28px;
+    margin-right: 18px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    text-align: right;
+    color: #FFFFFF;  
+    text-decoration-line: underline;  
+    list-style-type: none;
+}
+.header__lang-item:nth-child(2n) {
+    margin-right: 0;
+    text-decoration: none;
+}
+.header__lang-item:hover:nth-child(2n) {
+    transition: .2s linear;
+    color:rgba(255, 255, 255, 0.527)
+}
+@media (min-width: 320px) and (max-width: 425px) {
+.header__lang-item {
+    font-size: 18px;
+    line-height: 20px;
+}
+}
