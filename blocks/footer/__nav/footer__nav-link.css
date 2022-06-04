@@ -10,7 +10,7 @@
 }
 .footer__nav-link:hover {
     transition: .3s linear;
-    color:#e6e6e68a
+    color:#e6e6e68a;
 }
 @media (min-width: 320px) and (max-width: 425px) {
     .footer__nav-link {
