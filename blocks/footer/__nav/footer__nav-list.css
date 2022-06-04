@@ -1,0 +1,9 @@
+.footer__nav-list {
+    margin-right: 18px;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+    .footer__nav-list {
+        margin-bottom: 32px;
+        flex-direction: column;
+    }
+}
