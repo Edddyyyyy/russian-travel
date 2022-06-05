@@ -10,7 +10,7 @@
 }
 .footer__link:hover {
     transition: .3s linear;
-    color:#e6e6e68a;
+    opacity: 0.8;
 }
 @media (min-width: 320px) and (max-width: 425px) {
     .footer__link {
