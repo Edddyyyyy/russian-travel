@@ -11,7 +11,7 @@
 .header__link:hover {
     box-shadow:0 1px 0 0 white;
 }
-.header__link-status {
+.header__link_active {
     box-shadow:0 1px 0 0 white;
     cursor:default;
 }
