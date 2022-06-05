@@ -1,7 +1,8 @@
 .cover__content {
     margin: 0 auto;
     max-width: 560px;
-    position: absolute;
+    min-height: 740px;
+    position: relative;
     display: flex;
     justify-content: center;
     flex-direction: column;
