@@ -1,4 +1,4 @@
-.header__lang-link {
+.header__link {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -8,21 +8,21 @@
     text-decoration:none;
     transition:linear .335s;
 }
-.header__lang-link:hover {
+.header__link:hover {
     box-shadow:0 1px 0 0 white;
 }
-.header__lang-link-status {
+.header__link-status {
     box-shadow:0 1px 0 0 white;
     cursor:default;
 }
 @media (min-width: 320px) and (max-width: 425px) {
-    .header__lang-link {
+    .header__link {
         font-size: 18px;
         line-height: 20px;
     }
 }
 @media (max-width: 767px)   {
-    .header__lang-link{
+    .header__link{
         font-size:18px;
         line-height:24px;
     }
