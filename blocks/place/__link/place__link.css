@@ -8,3 +8,7 @@
     text-decoration-line: underline;
     color: #FFFFFF;
 }
+.place__link:hover {
+    transition: .3s linear;
+    opacity: 0.8;
+}
