@@ -15,7 +15,7 @@
     box-shadow:0 1px 0 0 white;
     cursor:default;
 }
-@media (min-width: 320px) and (max-width: 425px) {
+@media (max-width: 425px) {
     .header__link {
         font-size: 18px;
         line-height: 20px;
