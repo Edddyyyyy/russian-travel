@@ -9,7 +9,7 @@
         max-width: calc(100% - 48px);
     }
 }
-@media (min-width: 320px) and (max-width: 425px) {
+@media (max-width: 425px) {
     .footer {
         max-width: calc(100% - 32px);
         flex-direction: column;
