@@ -1,7 +1,7 @@
 .footer__list {
     margin-right: 18px;
 }
-@media (min-width: 320px) and (max-width: 425px) {
+@media (max-width: 425px) {
     .footer__list {
         margin-bottom: 32px;
         flex-direction: column;
