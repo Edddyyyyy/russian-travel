@@ -11,10 +11,6 @@
 .header__link:hover {
     box-shadow:0 1px 0 0 white;
 }
-.header__link_active {
-    box-shadow:0 1px 0 0 white;
-    cursor:default;
-}
 @media (max-width: 425px) {
     .header__link {
         font-size: 18px;
