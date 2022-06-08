@@ -1,6 +1,5 @@
 .place__website {
     display: grid;
-    margin: 0 0 8px 0;
     align-self: flex-end;
 }
 @media (max-width: 425px) {
