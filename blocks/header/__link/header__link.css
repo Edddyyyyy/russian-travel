@@ -13,13 +13,12 @@
 }
 @media (max-width: 425px) {
     .header__link {
-        font-size: 18px;
         line-height: 20px;
     }
 }
 @media (max-width: 767px)   {
     .header__link{
-        font-size:18px;
+        font-size: 18px;
         line-height:24px;
     }
 }
